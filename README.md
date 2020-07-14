@@ -30,6 +30,7 @@ To run the demo
 
 ### `docker rm web_server`
 
-8. push to Docker Hub
+8. push to Docker Hub and run in other machine
 ### `docker login`
 ### `docker push ryanckhung/react-nginx-docker-demo`
+### `docker run -p 8088:80 ryanckhung/react-nginx-docker-demo`
