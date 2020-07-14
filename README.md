@@ -29,3 +29,7 @@ To run the demo
 ### `docker stop web_server`
 
 ### `docker rm web_server`
+
+8. push to Docker Hub
+### `docker login`
+### `docker push ryanckhung/react-nginx-docker-demo`
