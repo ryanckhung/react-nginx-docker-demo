@@ -34,3 +34,6 @@ To run the demo
 ### `docker login`
 ### `docker push ryanckhung/react-nginx-docker-demo`
 ### `docker run -p 8088:80 ryanckhung/react-nginx-docker-demo`
+
+9. Deploy in AWS by edit the Dockerrun.aws.json file
+Reference: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/single-container-docker-configuration.html#create_deploy_docker_image_dockerrun
