@@ -26,7 +26,7 @@ To run the demo
 
 7. log into the contrainer
 
-### `docker run -it ryanhung/react-nginx-docker-demo bash`
+### `docker run -it web_server bash`
 
 8. to stop the container
 
