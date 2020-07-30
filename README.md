@@ -8,7 +8,7 @@ To run the demo
 
 ### `npm run build`
 
-3. build the docker image
+3. build the docker image base on the Dockerfile
 
 ### `docker build -t ryanckhung/react-nginx-docker-demo .`
 
