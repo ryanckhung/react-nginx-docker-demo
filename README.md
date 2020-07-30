@@ -26,7 +26,7 @@ To run the demo
 
 7. log into the contrainer
 
-### `docker run -it web_server bash`
+### `docker exec -it web_server bash`
 
 8. to stop the container
 
