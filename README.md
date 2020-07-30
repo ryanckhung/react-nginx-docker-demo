@@ -24,13 +24,20 @@ To run the demo
 
 ### `docker container ls`
 
-7. to stop the container
+7. log into the contrainer
+
+### `docker run -it ryanhung/react-nginx-docker-demo bash`
+
+8. to stop the container
 
 ### `docker stop web_server`
 
 ### `docker rm web_server`
 
-8. push to Docker Hub and run in other machine
+9. push to Docker Hub and run in other machine
+
 ### `docker login`
+
 ### `docker push ryanckhung/react-nginx-docker-demo`
+
 ### `docker run -p 8088:80 ryanckhung/react-nginx-docker-demo`
