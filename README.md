@@ -41,3 +41,8 @@ To run the demo
 ### `docker push ryanckhung/react-nginx-docker-demo`
 
 ### `docker run -p 8088:80 ryanckhung/react-nginx-docker-demo`
+
+10. after you build the image, you can import and export the docker image
+
+### `docker save <my_local_image> > xxx.tar`
+### `docker load --input xxx.tar`
